@@ -6,6 +6,8 @@
   Version    : 0.0.1
 */
 
+//Lien github  https://github.com/crepin21/UtilisationRandom_20-10-2022
+
 //Importation des librairies necessaires
 import java.util.Random; 
 
