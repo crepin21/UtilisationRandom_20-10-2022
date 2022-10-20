@@ -17,6 +17,13 @@ public class PlusGrandeValeur
         //Declaration des constantes
         int MAX = 100;
         int MIN = 0;
+
+        //Declaration des variables
+        int tab[]          = new int[15];
+        int IndexCellule   = 0;
+        int IndexPlusGrand = 0;
+        int ValeurIndexMax = 0;
+        
         
     }
 }
